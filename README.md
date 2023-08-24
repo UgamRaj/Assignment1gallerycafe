@@ -2,6 +2,8 @@
 
 ##Hosted link
 
+[Gallery cafe](https://ugamraj.github.io/Assignment1gallerycafe/)
+
 ##Sections
 ![boiler plate](https://github.com/UgamRaj/Assignment1/assets/124122714/51ee0cad-d719-4142-ae9c-89be2b72ddf1)
 
